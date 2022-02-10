@@ -1,2 +1,2 @@
 # App de Clima
-![screenshort](/screenshorts.png);
+![Screenshot](/screenshorts.png);
